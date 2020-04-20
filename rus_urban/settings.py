@@ -25,8 +25,7 @@ SECRET_KEY = '3xzde$c!#f3ff5z=9hvi(p$uwqb3d(54nm9*xd+z6%f_z#cv3x'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['165.22.250.242', '127.0.0.1']
-ALLOWED_HOSTS = [idhse2020.pythonanywhere.com]
+ALLOWED_HOSTS = ['165.22.250.242', '127.0.0.1', 'idhse2020.pythonanywhere.com']
 
 # Application definition
 
